@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robstoner
 - 👀 I’m interested in all things Computer Science
-- 🌱 I’m currently learning Computer Science at theh University of Bucharest
+- 🌱 I’m currently learning Computer Science at the University of Bucharest
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
