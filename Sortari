@@ -1,0 +1,7 @@
+SORTARI:
+
+Bucket Sort - Pentru numere cu virgula cuprinse intr-un range (exemplu 0-1). Daca se foloseste pe range, are o complexitate average de circa O(n)
+Radix Sort - Pentru numere cu acelasi numar de cifre. NU ESTE SORTARE PRIN COMPARARE. Complexitate O(nk)
+Quick Sort - Complexitate O(nlogn). NU SE FOLOSESTE PE SIR APROAPE SORTAT DEOARECE DEVINE O(n^2)
+Merge Sort - Complexitate O(nlogn). Pentru liste inlantuite este preferat acesta in loc de Quick Sort
+Heap Sort - Complexitate O(nlogn). Se foloseste pentru vector aproape sortat.
